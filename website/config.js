@@ -1,4 +1,4 @@
-var poolHost = "pool.turtlefaucet.ga";
+var poolHost = "trtlpool.ga";
 
 var api = "http://" + poolHost + ":8117";
 
